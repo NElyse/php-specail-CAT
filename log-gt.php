@@ -26,12 +26,13 @@
             </p>
 
             <div class="position-relative" style="top: 60px";>
-                <button type="button" class=" text-white fw-light w-100 text-start btn-sm" style="background-color:black;">
+           <a href="gitConfig.php"><button type="button"  class=" text-white fw-light w-100 text-start btn-sm" style="background-color:black;">
                 
                 <i style="font-size: 25px;" class="fa fa-github" aria-hidden="true"></i>
-                    <span class="ps-2"> <b>Countinue with GitHub</b> </span>
+                    <span class="ps-2">
+                         <b>Countinue with GitHub</b> </span>
                     
-                </button>
+                </button></a> 
                 
 
             </div>
